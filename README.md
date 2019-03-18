@@ -1,4 +1,4 @@
-**使用Android Studio实现HelloWorld及生命周期**
+# 使用Android Studio实现HelloWorld及生命周期
 
 一.HelloWorld的实现
   
