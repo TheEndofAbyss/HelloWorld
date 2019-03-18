@@ -9,11 +9,11 @@
 运行结果如下：
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190318183324999.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQyMzA0MjY3,size_16,color_FFFFFF,t_70)
+
+
 二.生命周期的实现
   
-    实现生命周期我们仅需更改.java中代码，此处我命名的.java文件为helloworld.java，源码如下：
-
-    helloworld.java：
+实现代码仅需更改.java文件，源码如下：
     
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190318185950391.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQyMzA0MjY3,size_16,color_FFFFFF,t_70)
 
